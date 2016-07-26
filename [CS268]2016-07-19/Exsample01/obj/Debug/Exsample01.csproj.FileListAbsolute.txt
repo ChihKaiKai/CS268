@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\Exsample01\bin\Debug\Exsample01.exe.config
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\Exsample01\bin\Debug\Exsample01.exe
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\Exsample01\bin\Debug\Exsample01.pdb
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\Exsample01\bin\Debug\StoreLibrary.dll
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\Exsample01\bin\Debug\StoreLibrary.pdb
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\Exsample01\obj\Debug\Exsample01.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\Exsample01\obj\Debug\Exsample01.exe
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\Exsample01\obj\Debug\Exsample01.pdb

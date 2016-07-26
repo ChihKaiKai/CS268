@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\StoreLibrary\bin\Debug\StoreLibrary.dll
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\StoreLibrary\bin\Debug\StoreLibrary.pdb
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\StoreLibrary\obj\Debug\StoreLibrary.dll
+C:\Users\user\Desktop\PT12\[CS268]2016-07-19\StoreLibrary\obj\Debug\StoreLibrary.pdb
+C:\Users\user\Desktop\[CS268]2016-07-19\[CS268]2016-07-19\StoreLibrary\bin\Debug\StoreLibrary.dll
+C:\Users\user\Desktop\[CS268]2016-07-19\[CS268]2016-07-19\StoreLibrary\bin\Debug\StoreLibrary.pdb
+C:\Users\user\Desktop\[CS268]2016-07-19\[CS268]2016-07-19\StoreLibrary\obj\Debug\StoreLibrary.dll
+C:\Users\user\Desktop\[CS268]2016-07-19\[CS268]2016-07-19\StoreLibrary\obj\Debug\StoreLibrary.pdb
